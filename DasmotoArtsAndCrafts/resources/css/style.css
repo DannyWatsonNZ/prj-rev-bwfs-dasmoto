@@ -8,22 +8,22 @@ h1  {
   text-align: center;
   color: khaki;
 }
-h2.brushes  {
+#brush {
   background-color: mediumspringgreen;
   font-size: 32px;
   color: white;
 }
-h2.frames {
+#frame {
   background-color: lightcoral;
   font-size: 32px;
   color: white;
 }
-h2.paint  {
+#paint  {
   background-color: skyblue;
   font-size: 32px;
   color: white;
 }
-span.blueText {
+.item span {
   font-weight: bold;
   color: blue;
 }
