@@ -8,20 +8,18 @@ h1  {
   text-align: center;
   color: khaki;
 }
-#brush {
-  background-color: mediumspringgreen;
+h2  {
   font-size: 32px;
   color: white;
+}
+#brush {
+  background-color: mediumspringgreen;
 }
 #frame {
   background-color: lightcoral;
-  font-size: 32px;
-  color: white;
 }
 #paint  {
   background-color: skyblue;
-  font-size: 32px;
-  color: white;
 }
 .item span {
   font-weight: bold;
